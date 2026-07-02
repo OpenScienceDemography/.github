@@ -27,6 +27,10 @@ While we are in the process of setting up dedicated communication channels, you 
 - **Adding to the Awesome List:** If you know of an open-source package, dataset, or learning guide, please submit it to the [Awesome Demographic Methods](https://github.com/OpenScienceDemography/awesome-demographic-methods) repository. 
 - **Sharing Ideas:** What features or resources would be most helpful to you? Share your suggestions by opening an issue in our repository. Or writing to one of the current members.
 
+**How to mark your membership in this GitHub community as public?** Please go to the members tab, there you have the option to make your membership publicly visible (photo below).
+
+![](how_to_mark_membership_as_public.png)
+
 *Please note that our resource list is currently a work in progress, and we rely on community contributions to make it as comprehensive as possible. Thank you for your support!*
 
 
