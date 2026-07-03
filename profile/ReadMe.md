@@ -25,7 +25,8 @@ What do you think we should focus on? We would love to hear your thoughts and su
 
 While we are in the process of setting up dedicated communication channels, you can get involved today by:
 - **Adding to the Awesome List:** If you know of an open-source package, dataset, or learning guide, please submit it to the [Awesome Demographic Methods](https://github.com/OpenScienceDemography/awesome-demographic-methods) repository. 
-- **Sharing Ideas:** What features or resources would be most helpful to you? Share your suggestions by opening an issue in our repository. Or writing to one of the current members.
+- **Sharing Ideas:** What features or resources would be most helpful to you? Share your suggestions by opening an issue in our repository. Or writing to one of the current members. If you wish to join as a member of the community, send an email to one of the current members.
+- **Discussions between currently joined members:** Please open the `Discussions` tab in the GitHub organization page and share your thoughts, thanks. [https://github.com/orgs/OpenScienceDemography/discussions](https://github.com/orgs/OpenScienceDemography/discussions)
 
 **How to mark your membership in this GitHub community as public?** Please go to the members tab, there you have the option to make your membership publicly visible (photo below).
 
